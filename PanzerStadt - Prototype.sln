@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E2CBC9BA-0CAA-CEA6-6707-C852872646B6}") = "PanzerStadt - Prototype", "Assembly-CSharp-firstpass.csproj", "{3E24E515-049E-1FAC-27D3-C56ADCDB1A53}"
+EndProject
+Project("{E2CBC9BA-0CAA-CEA6-6707-C852872646B6}") = "PanzerStadt - Prototype", "Assembly-CSharp.csproj", "{6B0E1426-C86A-50C9-9B7F-0CE989469DB6}"
+EndProject
+Project("{E2CBC9BA-0CAA-CEA6-6707-C852872646B6}") = "PanzerStadt - Prototype", "Assembly-CSharp-Editor.csproj", "{C2A69417-091C-E6D9-3B70-77EB47C3F9AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E24E515-049E-1FAC-27D3-C56ADCDB1A53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E24E515-049E-1FAC-27D3-C56ADCDB1A53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E24E515-049E-1FAC-27D3-C56ADCDB1A53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E24E515-049E-1FAC-27D3-C56ADCDB1A53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B0E1426-C86A-50C9-9B7F-0CE989469DB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B0E1426-C86A-50C9-9B7F-0CE989469DB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B0E1426-C86A-50C9-9B7F-0CE989469DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B0E1426-C86A-50C9-9B7F-0CE989469DB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2A69417-091C-E6D9-3B70-77EB47C3F9AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2A69417-091C-E6D9-3B70-77EB47C3F9AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2A69417-091C-E6D9-3B70-77EB47C3F9AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2A69417-091C-E6D9-3B70-77EB47C3F9AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/00_SCENES/99 - testscene.unity
+  isLoaded: 1
+  isActive: 1
